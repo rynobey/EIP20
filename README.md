@@ -4,8 +4,8 @@
 ```
 git clone https://github.com/rynobey/EIP20.git
 ```
-2. Make sure testrpc is running
-3. Migrate onto testrpc: 
+2. Make sure ganache-cli is running
+3. Migrate onto ganache-cli: 
 ```
 truffle migrate --network development1
 ```
